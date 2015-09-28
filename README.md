@@ -1,6 +1,6 @@
 # Workshop Windows 10 Universal Apps Development
 
-É com enorme prazer que confirmamos a sua inscrição no Workshop Windows 10 Universal Apps Development de dia 30 de Setembro de 2015. O evento terá lugar nas salas Windows (3º piso) da Microsoft Portugal no Parque das Nações.
+É com enorme prazer disponibilizamos o conteúdo da Workshop Windows 10 Universal Apps Development, com a Microsoft portugal. O evento terá lugar nas salas Windows (3º piso) da Microsoft Portugal no Parque das Nações.
 
 **[Conteúdo](#gitlab-flavored-markdown-gfm)**
 
