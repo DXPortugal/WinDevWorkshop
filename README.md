@@ -5,8 +5,8 @@
 **[Conteúdo](#gitlab-flavored-markdown-gfm)**
 
 * [Agenda](#agenda)
-* [Links](#usefull-links)
-* [Posts](#great-blog-posts)
+* [Usefull Links](#usefull-links)
+* [Great Blog Posts](#great-blog-posts)
 * [Tools](#tools)
 
 ## Agenda
