@@ -5,6 +5,7 @@
 **[Conteúdo](#gitlab-flavored-markdown-gfm)**
 
 * [Agenda](#agenda)
+* [Documentação](#documentacao)
 * [Links Úteis](#links-uteis)
 * [Bons Blog posts](#bons-blog-posts)
 * [Tools](#tools)
@@ -24,6 +25,14 @@
 |  | More Personal Computing   |
 |  | Store & Monetization  |
 | 17h30  | Wrap-up  |
+
+## Documentacao
+
+* [Design UWP apps](https://dev.windows.com/en-us/design)
+* [How-to guides for Windows 10 apps](https://msdn.microsoft.com/library/windows/apps/xaml/mt244352.aspx)
+* [Publish Windows Apps](https://dev.windows.com/en-us/publish)
+* [Monetize your Apps](https://dev.windows.com/en-us/monetize)
+* [Promote your Apps](https://dev.windows.com/en-us/store-promotion)
 
 ## Links Uteis
 * [Windows Universal Samples](https://github.com/Microsoft/Windows-universal-samples/)
