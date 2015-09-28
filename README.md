@@ -12,9 +12,9 @@
 | :--------: | :-------- |
 | 09h00 | Check-in na recepção principal da MS, piso 0 (basta dar indicação do seu nome e endereço de e-mail)   |
 | 09h30 | Workshop (part 1)  |
-| Introduction to UWP   |
-| Adaptive UI  |
-| Live Tiles & Notifications   |
+|  | Introduction to UWP   |
+|  | Adaptive UI  |
+|  | Live Tiles & Notifications   |
 | 13h00  | Almoço Livre  |
 | 14h30  | Workshop (part 2)  |
 | Edge & Hosted Web Apps   |
