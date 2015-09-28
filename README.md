@@ -5,7 +5,7 @@
 **[Conteúdo](#gitlab-flavored-markdown-gfm)**
 
 * [Agenda](#agenda)
-* [Links](#links)
+* [Links](#usefull links)
 * [Posts](#posts)
 * [Tools](#tools)
 
@@ -33,10 +33,10 @@
 * [Notification Visualizer](https://www.microsoft.com/en-us/store/apps/notifications-visualizer/9nblggh5xsl1)
 
 ## Great Blog Posts
-[A Minimal MVVM UWP App](http://blogs.msdn.com/b/johnshews_blog/archive/2015/09/09/a-minimal-mvvm-uwp-app.aspx)
-[UWP Dev Canada](http://blogs.msdn.com/b/cdndevs/archive/tags/windows+10/)
+* [A Minimal MVVM UWP App](http://blogs.msdn.com/b/johnshews_blog/archive/2015/09/09/a-minimal-mvvm-uwp-app.aspx) 
+* [UWP Dev Canada](http://blogs.msdn.com/b/cdndevs/archive/tags/windows+10/)
 
 ## Tools
-[Sys Internals](https://technet.microsoft.com/en-us/sysinternals/bb545021.aspx)
-[Fiddler](http://www.telerik.com/fiddler)
-[FieldMedic](https://www.microsoft.com/en-us/store/apps/field-medic/9wzdncrfjb82)
+* [Sys Internals](https://technet.microsoft.com/en-us/sysinternals/bb545021.aspx)
+* [Fiddler](http://www.telerik.com/fiddler)
+* [FieldMedic](https://www.microsoft.com/en-us/store/apps/field-medic/9wzdncrfjb82)
