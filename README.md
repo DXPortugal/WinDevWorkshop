@@ -4,8 +4,8 @@
 
 **[Conteúdo](#gitlab-flavored-markdown-gfm)**
 
-* [Agenda](#Agenda)
-* [Links](#Links)
+* [Agenda](#agenda)
+* [Links](#links)
 
 ## Agenda
 | Horario | Workshop Windows 10 Universal Apps Development |
