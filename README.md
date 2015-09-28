@@ -16,7 +16,7 @@
 | 09h00 | Check-in na recepção principal da MS, piso 0 (basta dar indicação do seu nome e endereço de e-mail)   |
 | 09h30 | Workshop (part 1)  |
 |  | Introduction to UWP   |
-|  | Adaptive UI - [Labs](https://github.com/DXPortugal/WinDevWorkshop/blob/master/HOLs/Lab%2002%20-%20Adaptive%20UI/Lab%20-%20Building%20an%20Adaptive%20UI.docx)  |
+|  | Adaptive UI - [Labs](https://github.com/DXPortugal/WinDevWorkshop/blob/master/HOLs/Lab%2002%20-%20Adaptive%20UI/Lab%20-%20Building%20an%20Adaptive%20UI.docx?raw=true)  |
 |  | Live Tiles & Notifications   |
 | 13h00  | Almoço Livre  |
 | 14h30  | Workshop (part 2)  |
