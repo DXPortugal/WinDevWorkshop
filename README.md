@@ -24,7 +24,9 @@
 | 17h30  | Wrap-up  |
 
 ## Links
-* [Template10](http://www.google.com)
-* https://google.com/
-* ftp://ftp.us.debian.org/debian/
-* smb://foo/bar/baz
+* [GitHub-Template10](https://github.com/Windows-XAML/Template10/)
+* [Vsix - Template10](https://visualstudiogallery.msdn.microsoft.com/60bb885a-44e9-4cbf-a380-270803b3f6e5)
+* [Adaptive tile Templates Schema and Documentation](http://blogs.msdn.com/b/tiles_and_toasts/archive/2015/06/30/adaptive-tile-templates-schema-and-documentation.aspx)
+* [Notification Visualizer](https://www.microsoft.com/en-us/store/apps/notifications-visualizer/9nblggh5xsl1)
+
+
