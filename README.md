@@ -24,7 +24,7 @@
 | 17h30  | Wrap-up  |
 
 ## Links
-* (Template10)(http://www.google.com)
+* [Template10](http://www.google.com)
 * https://google.com/
 * ftp://ftp.us.debian.org/debian/
 * smb://foo/bar/baz
