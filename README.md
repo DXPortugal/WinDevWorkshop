@@ -58,3 +58,4 @@
 * [Sys Internals](https://technet.microsoft.com/en-us/sysinternals/bb545021.aspx)
 * [Fiddler](http://www.telerik.com/fiddler)
 * [FieldMedic](https://www.microsoft.com/en-us/store/apps/field-medic/9wzdncrfjb82)
+* [Tangible T4](http://t4-editor.tangible-engineering.com/T4-Editor-Visual-T4-Editing.html)
