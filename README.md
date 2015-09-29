@@ -13,10 +13,9 @@
 ## Agenda
 | Horario | Sessões | Labs-Duracao | pptx |
 | :--------: | :-------- | :--------: | :--------: | 
-| 09h00 | Check-in na recepção principal da MS, piso 0 (basta dar indicação do seu nome e endereço de e-mail)   |||
+| 09h00 | Check-in na recepção principal da MS |||
 | 09h30 | Workshop (part 1)  |||
-|  | Introduction to UWP | [Lab 01a](https://github.com/DXPortugal/WinDevWorkshop/blob/master/HOLs/Lab%2001a%20-%20Hello%20UWP%20World/Lab%20-%20Hello%20UWP%20World.docx) - XXmin 
-[Lab 01b](https://github.com/DXPortugal/WinDevWorkshop/blob/master/HOLs/Lab%2001b%20-%20Handling%20Navigation%20and%20Back/Lab%20-%20Handling%20Navigation%20and%20Back.docx?raw=true) - XXmin | pptx |
+|  | Introduction to UWP | [Lab 01a](https://github.com/DXPortugal/WinDevWorkshop/blob/master/HOLs/Lab%2001a%20-%20Hello%20UWP%20World/Lab%20-%20Hello%20UWP%20World.docx) - XXmin  [Lab 01b](https://github.com/DXPortugal/WinDevWorkshop/blob/master/HOLs/Lab%2001b%20-%20Handling%20Navigation%20and%20Back/Lab%20-%20Handling%20Navigation%20and%20Back.docx?raw=true) - XXmin | pptx |
 |  | Adaptive UI | [Lab 02](https://github.com/DXPortugal/WinDevWorkshop/blob/master/HOLs/Lab%2002%20-%20Adaptive%20UI/Lab%20-%20Building%20an%20Adaptive%20UI.docx?raw=true) - XXmin | pptx |
 |  | Live Tiles & Notifications | [Lab 03](https://github.com/DXPortugal/WinDevWorkshop/blob/master/HOLs/Lab%2003%20-%20Live%20Tiles%20and%20Notifications/Lab%20-%20Live%20Tiles%20and%20Notifications%20(v1).docx?raw=true) - XXmin | pptx |
 | 13h00  | Almoço Livre  |||
