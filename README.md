@@ -51,6 +51,7 @@
 * [Building Apps for Windows ](https://blogs.windows.com/buildingapps/)
 * [.NET Native – What it means for Universal Windows Platform (UWP) developers](https://blogs.windows.com/buildingapps/2015/08/20/net-native-what-it-means-for-universal-windows-platform-uwp-developers/)
 * [Migrating Your Windows Store App to .NET Native](https://msdn.microsoft.com/en-us/library/dn600634(v=vs.110).aspx)
+* [Resource interface generation with t4 Templates](http://www.jayway.com/2014/03/04/resource-interface-generation-with-t4-templates-cxaml/)
 
 ## Tools
 * [Github Desktop](https://desktop.github.com/)
