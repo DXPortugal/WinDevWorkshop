@@ -24,7 +24,7 @@
 |  | Cloud Services for Windows Apps | [Lab 05](https://github.com/DXPortugal/WinDevWorkshop/blob/master/HOLs/Lab%2005%20-%20Cloud%20Enabling%20Your%20App/Lab%20-%20Azure%20Mobile%20Apps.docx?raw=true) - XXmin | [pptx](https://github.com/DXPortugal/WinDevWorkshop/blob/master/Presentations/05.%20Connecting%20to%20the%20Cloud/05%20CloudIntegration.pptx?raw=true) |
 |  | More Personal Computing | [Lab 06](https://github.com/DXPortugal/WinDevWorkshop/blob/master/HOLs/Lab%2006a%20-%20Speech%20Commands/Lab%20-%20Launching%20Apps%20with%20Speech%20Commands.docx?raw=true) - XXmin | [pptx](https://github.com/DXPortugal/WinDevWorkshop/blob/master/Presentations/06.%20More%20Personal%20Computing/06%20MorePersonalComputing.pptx?raw=true) |
 |  | Store & Monetization | [Lab 07](https://github.com/DXPortugal/WinDevWorkshop/blob/master/HOLs/Lab%2007a%20-%20Adding%20Advertisements/Lab%20-%20Integrating%20Ads.docx?raw=true) - XXmin | [pptx](https://github.com/DXPortugal/WinDevWorkshop/blob/master/Presentations/07.%20Store%20and%20Monetization/07%20DevCenter.pptx?raw=true) |
-|  | Tips & Tricks  || [pptx]https://github.com/DXPortugal/WinDevWorkshop/blob/master/Presentations/08.%20Tips%20and%20Tricks/08%20Lessons%20Learned.pptx?raw=true) |
+|  | Tips & Tricks  || [pptx](https://github.com/DXPortugal/WinDevWorkshop/blob/master/Presentations/08.%20Tips%20and%20Tricks/08%20Lessons%20Learned.pptx?raw=true) |
 | 17h30  | Wrap-up  |
 
 ## Documentacao
