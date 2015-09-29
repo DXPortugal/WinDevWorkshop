@@ -18,6 +18,9 @@
 	        webview.addWebAllowedObject("toastApi", communicationWinRT);
             
 	        webview.navigate("ms-appx-web:///toastGenerator.html");
+	        //webview.navigate("http://holdemos.azurewebsites.net/");
+	        //webview.navigate("http://localhost:18425/toastgenerator.html");
+            
 
 			if (args.detail.previousExecutionState !== activation.ApplicationExecutionState.terminated) {
 				// TODO: This application has been newly launched. Initialize your application here.

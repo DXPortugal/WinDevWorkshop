@@ -21,7 +21,7 @@
         <uap:SplashScreen Image="images\splashscreen.png" />
       </uap:VisualElements>
       <uap:ApplicationContentUriRules>
-        <uap:Rule Match="http://holdemos.azurewebsites.net" Type="include" WindowsRuntimeAccess="all" />
+        <uap:Rule Match="ms-appx-web://" Type="include" WindowsRuntimeAccess="allowForWebOnly" />
       </uap:ApplicationContentUriRules>
     </Application>
   </Applications>

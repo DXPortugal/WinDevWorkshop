@@ -10,7 +10,7 @@
 
     <Grid Background="{StaticResource EggshellBrush}">
         
-        <VisualStateManager.VisualStateGroups>
+        <!--<VisualStateManager.VisualStateGroups>
             <VisualStateGroup x:Name="WindowStates">
                      
                 <VisualState x:Name="NarrowState">
@@ -73,7 +73,7 @@
                 </VisualState>
                
             </VisualStateGroup>
-        </VisualStateManager.VisualStateGroups>
+        </VisualStateManager.VisualStateGroups>-->
 
         
         <SplitView x:Name="MenuSplitView" DisplayMode="Inline" IsPaneOpen="True">
