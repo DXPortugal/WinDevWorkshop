@@ -2,6 +2,8 @@
 
 É com enorme prazer disponibilizamos o conteúdo da Workshop Windows 10 Universal Apps Development, com a Microsoft portugal. O evento terá lugar nas salas Windows (3º piso) da Microsoft Portugal no Parque das Nações.
 
+Como seria de esperar, iremos continuar a trabalhar nos Labs e Demos para as seguintes workshops. Pretendemos incluir novas áreas e com deep-dive. Para isso necessitamos o vosso feedback! Caso tenham alguma dúvida ou detectem algum erro, falem connosco através de *devcamppt@microsoft.com*
+
 **[Conteúdo](#gitlab-flavored-markdown-gfm)**
 
 * [Agenda](#agenda)
